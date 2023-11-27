@@ -9,7 +9,7 @@ export default function Header() {
         <img src={logo} alt="logo" />  
       </div>
 
-      <div className='flex hidden sm:block '>
+      <div className='hidden sm:flex '>
         <a href="" className='mr-5 hover:sm:border-b-2 hover:sm:border-green-500 pb-5'>Home</a>
         <a href="" className='mr-5 hover:sm:border-b-2 hover:sm:border-green-500 pb-5'>About</a>
         <a href="" className='mr-5 hover:sm:border-b-2 hover:sm:border-green-500 pb-5'>Contact</a>

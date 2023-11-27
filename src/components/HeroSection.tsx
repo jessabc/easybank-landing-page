@@ -12,7 +12,7 @@ export default function Hero() {
         <img src={mockups} alt="mockups" className='absolute -top-28 sm:-top-24 sm:-right-20'/>
       </div>
 
-      <div className='sm:order-1 sm:w-1/2 flex flex-col gap-3 items-center gap-5 mx-8 '>
+      <div className='sm:order-1 sm:w-1/2 flex flex-col items-center gap-5 mx-8 '>
         <h1 className='text-slate-700 font-semibold text-4xl text-center sm:text-left'>Next generation digital banking</h1>
         <p className='text-slate-500 text-sm text-center sm:text-left'>Take your financial life online. Your Easybank account will be a one-stop-shop 
         for spending, saving, budgeting, investing, and much more.</p>
